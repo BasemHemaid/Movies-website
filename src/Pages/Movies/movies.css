@@ -1,0 +1,33 @@
+.oneCart
+{
+    width: 400px;
+    height: 200px;
+    background-color: black;
+}
+
+.body
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.image
+{
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
+
+.favouriteIcon
+{
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    width: 25px;
+}
+
+.button
+{
+    border: 0;
+    width: 20px;
+}
